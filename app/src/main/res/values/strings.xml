@@ -11,4 +11,6 @@
     <string name="delete_contact">Delete Contact</string>
     <string name="add_contact_dialog_title">Add Contact</string>
     <string name="edit_contact_dialog_title">Edit Contact</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="contacts_heading">Contacts</string>
 </resources>

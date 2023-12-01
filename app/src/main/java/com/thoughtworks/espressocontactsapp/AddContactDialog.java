@@ -83,7 +83,8 @@ public class AddContactDialog extends Dialog {
             msg = msg + "\nInvalid email ID";
             returnVal = false;
         }
-        showToast(msg.trim());
+        if(msg.length() > 0)
+            showToast(msg.trim());
         return returnVal;
     }
 

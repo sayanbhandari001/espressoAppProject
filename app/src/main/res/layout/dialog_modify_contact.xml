@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="@string/edit_contact_dialog_title"
+        android:contentDescription="@string/edit_contact_dialog"
         android:textSize="18sp"
         android:textStyle="bold"
         android:padding="16dp"/>
@@ -74,6 +75,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/update_contact"
+            android:contentDescription="@string/update_contact_and_save"
             tools:ignore="VisualLintButtonSize" />
 
         <Button
@@ -82,6 +84,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/delete_contact"
+            android:contentDescription="@string/delete_contact_from_database"
             tools:ignore="VisualLintButtonSize" />
 
         <Button
@@ -90,6 +93,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/cancel_action"
+            android:contentDescription="@string/cancel_update_contact"
             tools:ignore="VisualLintButtonSize" />
 
     </LinearLayout>

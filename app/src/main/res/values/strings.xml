@@ -13,4 +13,14 @@
     <string name="edit_contact_dialog_title">Edit Contact</string>
     <string name="add_contact">Add Contact</string>
     <string name="contacts_heading">Contacts</string>
+    <string name="contacts_page_title">Contacts page title</string>
+    <string name="no_contacts_saved">no contacts saved</string>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="add_new_contact_dialog">Add new contact dialog title</string>
+    <string name="save_contact">Save contact</string>
+    <string name="cancel_contact_creation">Cancel contact creation</string>
+    <string name="edit_contact_dialog">Edit contact dialog</string>
+    <string name="update_contact_and_save">Update contact and save</string>
+    <string name="delete_contact_from_database">Delete contact from database</string>
+    <string name="cancel_update_contact">Cancel update contact</string>
 </resources>
